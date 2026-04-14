@@ -15,7 +15,8 @@ I am a studying Cyber Security at the University of Mary. I have hands on experi
  - Cybersecurity and basic security fundamentals
 
 ## Projects
-Microsoft Windows 11 Virtual Machine installation guide
+  - Microsoft Windows 11 Virtual Machine installation guide
+  - OSI research and physical security assessment of organisation
 
 ## Contact
 hansenteige@gmail.com
