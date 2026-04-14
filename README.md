@@ -15,6 +15,7 @@ I am a studying Cyber Security at the University of Mary. I have hands on experi
  - Cybersecurity and basic security fundamentals
 
 ## Projects
+  - Created and monitored traffic going through a Raspberry Pi 5 Honeypot 
   - Microsoft Windows 11 Virtual Machine installation guide
   - OSI research and physical security assessment of organisation
 
