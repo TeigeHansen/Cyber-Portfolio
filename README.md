@@ -4,8 +4,8 @@
 I am a studying Cyber Security at the University of Mary. I have hands on experience setting up and configuring end devices for users as well as knowledge of networking and other IT related systems. I have taken college level classes in subjects such as digital forensics, cloud security and administration, ethical hacking, firewalls, and computer network system security. 
 
 ## Certifications
- - [Security Pro] (./certifications/SecurityPro.pdf)
- - [Linux Pro] (./certifications/LinuxPro.pdf)
+ - [Security Pro] (Certifications/SecurityPro.pdf)
+ - [Linux Pro] (Certifications/LinuxPro.pdf)
 
 ## Skills
  - Exchanging harware devices via data transer and configuration setup
