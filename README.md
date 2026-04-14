@@ -15,9 +15,9 @@ I am a studying Cyber Security at the University of Mary. I have hands on experi
  - Cybersecurity and basic security fundamentals
 
 ## Projects
-  - Created and monitored traffic going through a Raspberry Pi 5 Honeypot 
-  - Microsoft Windows 11 Virtual Machine installation guide
-  - OSI research and physical security assessment of organisation
+  - [Created and monitored traffic going through a Raspberry Pi 5 Honeypot] (Projects/HoneyPotDocumentation.docx)
+  - [OSI research and physical security assessment of organisation] (Projects/OSI Physical Security Assessment.docx)
+  - [Microsoft Windows 11 Virtual Machine installation guide] (Projects/VM Install Guide - TH.docx)
 
 ## Contact
 hansenteige@gmail.com
